@@ -47,7 +47,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 4-bit Count Down Counter
 ### Procedure
 #### Step 1: Module Declaration. Module is a keywords defined in Verilog. 
-#### Step 2: Input-Output Delecaration. Clock and reset are the inputs. 
+#### Step 2: Input-Output Declaration. Clock and reset are the inputs. 
 #### Step 3: Declare the always keyword. 
 #### Step 4: Use if loop for the functionality. 
 #### Step 5: Assign the counter_up & counter_down.
